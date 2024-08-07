@@ -3,7 +3,7 @@
 #### 07/08/2024
 - Starting Project 2 Building Azure DW for Bike corp
 - Finishing create resources: Synapse, Postgre, Blob
-- Importing data onto Postgres
+- Using py script import data onto Postgres
 
 #### 06/08/2024
 - Completing Project 1 modeling data with Cassandra
