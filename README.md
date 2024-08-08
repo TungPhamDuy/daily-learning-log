@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 08/08/2024
+- Completing and passing first submit Project 2
+- Starting Course 4: Datalake & Lakehouse w Spark & Databricks
+
 #### 07/08/2024
 - Starting Project 2 Building Azure DW for Bike corp
 - Finishing create resources: Synapse, Postgre, Blob
