@@ -1,9 +1,13 @@
 # daily-learning-log
 
+#### 09/08/2024
+- Starting data wrangling with Spark
+
 #### 08/08/2024
 - Completing and passing first submit Project 2
 - Starting Course 4: Datalake & Lakehouse w Spark & Databricks
 - Checking out Map Reduce
+- Overviewing Bigdata ecosystem, DataLake and Spark
 
 #### 07/08/2024
 - Starting Project 2 Building Azure DW for Bike corp
