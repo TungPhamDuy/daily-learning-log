@@ -3,6 +3,7 @@
 #### 09/08/2024
 - Wrangling data with SparkSQL
 - Spark debugging and optimization
+- Azure Databricks (please kill me)
 
 #### 08/08/2024
 - Completing and passing first submit Project 2
