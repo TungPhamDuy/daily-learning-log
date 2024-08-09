@@ -1,7 +1,7 @@
 # daily-learning-log
 
 #### 09/08/2024
-- Starting data wrangling with Spark
+- Wrangling data with SparkSQL
 
 #### 08/08/2024
 - Completing and passing first submit Project 2
