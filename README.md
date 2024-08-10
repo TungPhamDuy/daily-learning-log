@@ -2,6 +2,7 @@
 
 #### 10/08/2024
 - Completing Project 3 Azure Data Lakehouse Project
+- Starting Course 5 Data pipeline w Azure
 
 #### 09/08/2024
 - Wrangling data with SparkSQL
