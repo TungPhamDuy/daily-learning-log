@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 11/08/2024
+- Coming up w idea for demo CDP reports
+
 #### 10/08/2024
 - Completing Project 3 Azure Data Lakehouse Project
 - Starting Course 5 Data pipeline w Azure
