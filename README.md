@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 12/08/2024
+- Fucking laptop broken so have to fucking fix it
+- Cant do shit and lost money, amazing
+
 #### 11/08/2024
 - Coming up w idea for demo CDP reports
 
