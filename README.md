@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 13/08/2024
+- Completing Rentention, Acquisition and Churn report
+
 #### 12/08/2024
 - Fucking laptop broken so have to fucking fix it
 - Cant do shit and lost money, amazing
