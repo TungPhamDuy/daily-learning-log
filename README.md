@@ -5,6 +5,7 @@
 - Modifying Sankey diagram
 - Completing Customer Behavior report
 - Sprinting through Azure Data Pipeline intro
+- Starting ADF Pipeline components
 
 #### 13/08/2024
 - Completing Rentention, Acquisition and Churn report
