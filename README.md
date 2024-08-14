@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 14/08/2024
+- Updating the RAC report
+- Modifying Sankey diagram
+
 #### 13/08/2024
 - Completing Rentention, Acquisition and Churn report
 
