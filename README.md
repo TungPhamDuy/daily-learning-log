@@ -4,7 +4,7 @@
 - Updating the RAC report
 - Modifying Sankey diagram
 - Completing Customer Behavior report
-- Speeding through Azure Data Pipeline intro
+- Sprinting through Azure Data Pipeline intro
 
 #### 13/08/2024
 - Completing Rentention, Acquisition and Churn report
