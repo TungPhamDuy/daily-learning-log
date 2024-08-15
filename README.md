@@ -5,6 +5,7 @@
 - Completing ADF Pipeline components
 - Completing Transform data in Azure Data pipeline
 - Completing Azure Pipeline Data Quality
+- Completing Azure Data Pipeline in Production
 
 #### 14/08/2024
 - Updating the RAC report
