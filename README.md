@@ -3,6 +3,7 @@
 #### 15/08/2024
 - Updating info to PowerOn to reclaim scholarship
 - Completing ADF Pipeline components
+- Completing Transform data in Azure Data pipeline
 
 #### 14/08/2024
 - Updating the RAC report
