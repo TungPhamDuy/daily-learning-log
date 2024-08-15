@@ -2,6 +2,7 @@
 
 #### 15/08/2024
 - Updating info to PowerOn to reclaim scholarship
+- Completing ADF Pipeline components
 
 #### 14/08/2024
 - Updating the RAC report
