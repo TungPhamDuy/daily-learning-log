@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 15/08/2024
+- Updating info to PowerOn to reclaim scholarship
+
 #### 14/08/2024
 - Updating the RAC report
 - Modifying Sankey diagram
