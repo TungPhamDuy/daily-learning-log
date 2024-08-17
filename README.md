@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 16/08/2024
+- Doing the Capstone project for DE w Azure
+- Completing Capstone project for DE w Azure
+
 #### 15/08/2024
 - Updating info to PowerOn to reclaim scholarship
 - Completing ADF Pipeline components
