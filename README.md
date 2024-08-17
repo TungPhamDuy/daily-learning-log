@@ -2,7 +2,8 @@
 
 #### 16/08/2024
 - Doing the Capstone project for DE w Azure
-- Completing Capstone project for DE w Azure
+- Passing Capstone project for DE w Azure
+- Completing cert Data Engineer w Microsoft Azure
 
 #### 15/08/2024
 - Updating info to PowerOn to reclaim scholarship
