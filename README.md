@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 17/08/2024
+- Starting Microsoft Power Platform
+
 #### 16/08/2024
 - Doing the Capstone project for DE w Azure
 - Passing Capstone project for DE w Azure
