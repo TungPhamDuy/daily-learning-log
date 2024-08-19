@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 19/08/2024
+- Sprinting throught Power Bi part of PL900
+- Starting ???
+
 #### 17/08/2024
 - Starting Microsoft Power Platform
 
