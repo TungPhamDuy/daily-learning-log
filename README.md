@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 20/08/2024
+- Reviewing ??? c1
+- Continuing PL900 Power App section
+
 #### 19/08/2024
 - Sprinting throught Power Bi part of PL900
 - Starting ???
