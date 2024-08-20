@@ -4,6 +4,7 @@
 - Reviewing ??? chapter 1
 - Completing Power App and Enviroment
 - Completing Dataverse (Common Data Service)
+- Completing Power App canvas app
 
 #### 19/08/2024
 - Sprinting throught Power Bi part of PL900
