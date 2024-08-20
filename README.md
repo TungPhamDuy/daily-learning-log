@@ -6,6 +6,7 @@
 - Completing Dataverse (Common Data Service)
 - Completing Power App canvas app
 - Familirizing model driven app
+- Freaking impress w the Copilot Studio
 
 #### 19/08/2024
 - Sprinting throught Power Bi part of PL900
