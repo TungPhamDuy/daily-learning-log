@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 21/08/2024
+- Completing Power Page
+
 #### 20/08/2024
 - Reviewing ??? chapter 1
 - Completing Power App and Enviroment
