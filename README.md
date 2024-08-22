@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 22/08/2024
+- Doing mock test for PL900
+
 #### 21/08/2024
 - Completing Power Page
 
