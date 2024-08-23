@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 24/08/2024
+- Learning PL900
+
 #### 23/08/2024
 - Reading articles not included in Udemy PL900
 
