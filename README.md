@@ -2,6 +2,7 @@
 
 #### 24/08/2024
 - Learning PL900
+- Learning C printf("Hello World");
 
 #### 23/08/2024
 - Reading articles not included in Udemy PL900
