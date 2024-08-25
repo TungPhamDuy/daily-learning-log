@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 25/08/2024
+- Learning PL900
+
 #### 24/08/2024
 - Learning PL900
 - Learning C printf("Hello World");
