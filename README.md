@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 26/08/2024
+- Learning PL900
+
 #### 25/08/2024
 - Learning PL900
 
