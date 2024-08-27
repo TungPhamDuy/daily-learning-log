@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 27/08/2024
+- Learning PL900
+- Supporting NgocNA1 w Udacity DA project 1
+
 #### 26/08/2024
 - Learning PL900
 
