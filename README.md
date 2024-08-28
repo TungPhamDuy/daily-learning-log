@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 28/08/2024
+- Learning PL900 (still, sorry but just want to make sure not waste the exam fee)
+
 #### 27/08/2024
 - Learning PL900
 - Supporting NgocNA1 w Udacity DA project 1
