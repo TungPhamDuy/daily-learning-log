@@ -4,7 +4,7 @@
 - Customizing the new email
 - Pushing Planner (loanttt2) to approve cert
 - Emailing award info to school office
-- 
+- Completing base.vn post Q&A
 
 #### 29/08/2024
 - Completing PL900
