@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 29/08/2024
+- Completing PL900
+
 #### 28/08/2024
 - Learning PL900 (still, sorry but just want to make sure not waste the exam fee)
 
