@@ -1,5 +1,11 @@
 # daily-learning-log
 
+#### 30/08/2024
+- Customizing the new email
+- Pushing Planner (loanttt2) to approve cert
+- Emailing award info to school office
+- 
+
 #### 29/08/2024
 - Completing PL900
 
