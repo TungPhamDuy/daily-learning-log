@@ -1,5 +1,11 @@
 # daily-learning-log
 
+#### 01/09/2024
+- Holiday break
+
+#### 31/08/2024
+- Holiday break
+
 #### 30/08/2024
 - Customizing the new email
 - Pushing Planner (loanttt2) to approve cert
