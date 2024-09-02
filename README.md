@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 02/09/2024
+- Holiday break
+
 #### 01/09/2024
 - Holiday break
 
