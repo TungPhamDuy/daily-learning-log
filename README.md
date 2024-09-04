@@ -5,6 +5,7 @@
 - Completing Workspace and AzureML Studio
 - Completing Datastore and Dataset
 - Completing training models in AzureML
+- Completing AzureML SDK
 
 #### 02/09/2024
 - Holiday break
