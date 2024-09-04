@@ -2,7 +2,7 @@
 
 #### 03/09/2024
 - Starting the ML Engineer w Azure
-- 
+- Completing Workspace and AzureML Studio
 
 #### 02/09/2024
 - Holiday break
