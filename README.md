@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 03/09/2024
+- Starting the ML Engineer w Azure
+- 
+
 #### 02/09/2024
 - Holiday break
 
