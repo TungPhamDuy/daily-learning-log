@@ -4,6 +4,7 @@
 - Starting the ML Engineer w Azure
 - Completing Workspace and AzureML Studio
 - Completing Datastore and Dataset
+- Completing training models in AzureML
 
 #### 02/09/2024
 - Holiday break
