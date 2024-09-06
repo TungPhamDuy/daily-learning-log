@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 06/09/2024
+- Graduation day
+
 #### 03/09/2024
 - Starting the ML Engineer w Azure
 - Completing Workspace and AzureML Studio
