@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 07/09/2024
+- Check back the pj 2 of a colleague
+
 #### 06/09/2024
 - Graduation day
 
