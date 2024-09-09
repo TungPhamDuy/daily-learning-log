@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 09/09/2024
+- Check out the Azure DE Microsoft
+
 #### 08/09/2024
 - Preparing for next week
 - Check back the pj 2 for a colleauge
