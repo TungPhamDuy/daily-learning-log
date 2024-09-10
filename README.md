@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 10/09/2024
+- Completing the BRCMS course
+
 #### 09/09/2024
 - Check out the Azure DE Microsoft
 
