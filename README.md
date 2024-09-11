@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 11/09/2024
+- Completing Automated ML and Hyperparameter Tuning
+
 #### 10/09/2024
 - Completing the BRCMS course
 
