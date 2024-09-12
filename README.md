@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 12/09/2024
+- Starting to learn DP203
+
 #### 11/09/2024
 - Completing Automated ML and Hyperparameter Tuning
 
