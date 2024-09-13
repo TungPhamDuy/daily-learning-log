@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 13/09/2024
+- Designing and implementing data storage
+
 #### 12/09/2024
 - Starting to learn DP203
 
