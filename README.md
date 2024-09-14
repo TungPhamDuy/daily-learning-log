@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 14/09/2024
+- Starting Advanced Algorithm
+
 #### 13/09/2024
 - Designing and implementing data storage
 
