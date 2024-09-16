@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 15/09/2024
+- Starting Discrete Math session 1
+
 #### 14/09/2024
 - Starting Advanced Algorithm
 
