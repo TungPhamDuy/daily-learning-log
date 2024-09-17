@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 16/09/2024
+- Continuing Discrete Math session 1
+
 #### 15/09/2024
 - Starting Discrete Math session 1
 
