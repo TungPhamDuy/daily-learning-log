@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 19/09/2024
+- Starting Intelligent System
+
 #### 16/09/2024
 - Continuing Discrete Math session 1
 
