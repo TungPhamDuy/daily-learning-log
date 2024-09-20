@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 20/09/2024
+- Learning Udemy DP900
+
 #### 19/09/2024
 - Starting Intelligent System
 
