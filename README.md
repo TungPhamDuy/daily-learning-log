@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 21/09/2024
+- Completing Udemy DP900
+
 #### 20/09/2024
 - Learning Udemy DP900
 
