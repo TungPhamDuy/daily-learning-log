@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 24/09/2024
+- Learning Applied Data Science
+
 #### 22/09/2024
 - Completing DP900
 
