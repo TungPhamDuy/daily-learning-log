@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 25/09/2024
+- Killing myself with discrete math
+
 #### 24/09/2024
 - Learning Applied Data Science
 
