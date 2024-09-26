@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 27/09/2024
+- Doing stuff
+
 #### 25/09/2024
 - Killing myself with discrete math
 
