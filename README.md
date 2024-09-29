@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 30/09/2024
+- Doing stuff
+
 #### 29/09/2024
 - Chilling and shit
 
