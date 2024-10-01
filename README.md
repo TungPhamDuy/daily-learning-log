@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 01/10/2024
+- Doing company tasks
+
 #### 30/09/2024
 - Doing stuff
 
