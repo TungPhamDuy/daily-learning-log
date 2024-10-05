@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 05/10/2024
+- Doing stuff
+
 #### 04/10/2024
 - Starting back on ML Engineer w Azure
 
