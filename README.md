@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 06/10/2024
+- Doing stuff
+
 #### 05/10/2024
 - Doing stuff
 
