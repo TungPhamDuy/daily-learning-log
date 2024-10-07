@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 08/10/2024
+- Being sick all day
+
 #### 07/10/2024
 - Doing stuff
 
