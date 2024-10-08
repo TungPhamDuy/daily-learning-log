@@ -2,6 +2,7 @@
 
 #### 08/10/2024
 - Being sick all day
+- Starting back the Azure ML
 
 #### 07/10/2024
 - Doing stuff
