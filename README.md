@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 10/10/2024
+- Checking out the Q1 paper of Mr. Nguyen Nghia
+
 #### 09/10/2024
 - Emailing PGS regarding foreign language entrance exam exemption
 - Getting the academic transcripts from school
