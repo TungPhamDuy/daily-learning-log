@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 09/10/2024
+- Getting the academic transcripts from school
 - Completing recommendation letter sample of PhD. Liem Nguyen
 
 #### 08/10/2024
