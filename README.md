@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 09/10/2024
+- Completing recommendation letter sample of PhD. Liem Nguyen
+
 #### 08/10/2024
 - Being sick all day
 - Starting back the Azure ML
