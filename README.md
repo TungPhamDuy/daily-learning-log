@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 10/10/2024
+- Logging work on jira for BODS
 - Checking out the Q1 paper of Mr. Nguyen Nghia
 
 #### 09/10/2024
