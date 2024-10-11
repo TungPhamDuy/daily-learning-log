@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 11/10/2024
+- Starting on Azure DE 
+
 #### 10/10/2024
 - Logging work on jira for BODS
 - Checking out the Q1 paper of Mr. Nguyen Nghia
