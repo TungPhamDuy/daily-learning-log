@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 13/10/2024
+- Learning Spark mechanism to optimize calculation and Lazy evalution
+
 #### 12/10/2024
 - Starting on Azure DE
 
