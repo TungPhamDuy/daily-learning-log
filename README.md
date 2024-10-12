@@ -2,6 +2,7 @@
 
 #### 13/10/2024
 - Learning Spark mechanism to optimize calculation and Lazy evalution
+- DAG scheduler, Catalyst optimizer and Tungsten execution engine
 
 #### 12/10/2024
 - Starting on Azure DE
