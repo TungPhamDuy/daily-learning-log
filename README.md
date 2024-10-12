@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 12/10/2024
+- Starting on Azure DE
+
 #### 11/10/2024
 - Starting on Azure DE 
 
