@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 14/10/2024
+- Performing DE w Azure Synapse Apache Sqark pool
+
 #### 13/10/2024
 - Learning Spark mechanism to optimize calculation and Lazy evalution
 - DAG scheduler, Catalyst optimizer and Tungsten execution engine
