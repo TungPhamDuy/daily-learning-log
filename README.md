@@ -1,8 +1,9 @@
 # daily-learning-log
 
 #### 14/10/2024
+- Implementing a Data Analytics Solution with Azure Synapse Analytics
 - Building a data pipeline in Azure Synapse Analytics
-- Performing DE w Azure Synapse Apache Sqark pool
+- Performing DE w Azure Synapse Apache Spark pool
 - Learning Loglog  and Hyperloglog algorithm
 
 #### 13/10/2024
