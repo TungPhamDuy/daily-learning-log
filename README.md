@@ -3,6 +3,7 @@
 #### 14/10/2024
 - Building a data pipeline in Azure Synapse Analytics
 - Performing DE w Azure Synapse Apache Sqark pool
+- Learning Loglog  and Hyperloglog algorithm
 
 #### 13/10/2024
 - Learning Spark mechanism to optimize calculation and Lazy evalution
