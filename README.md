@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 14/10/2024
+- Building a data pipeline in Azure Synapse Analytics
 - Performing DE w Azure Synapse Apache Sqark pool
 
 #### 13/10/2024
