@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 15/02/2024
+- Doing stuff
+
 #### 14/10/2024
 - Implementing a Data Analytics Solution with Azure Synapse Analytics
 - Building a data pipeline in Azure Synapse Analytics
