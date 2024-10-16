@@ -1,7 +1,8 @@
 # daily-learning-log
 
 #### 16/02/2024
-- Doing stuff
+- Working with Data Warehouses using Azure Synapse Analytics
+- Getting Xam to be neutered
 
 #### 15/02/2024
 - Doing stuff
