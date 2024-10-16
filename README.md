@@ -3,6 +3,7 @@
 #### 16/02/2024
 - Implementing Azure Synapse Link with Azure Cosmos DB
 - Planing hybrid transactional and analytical processing using Azure Synapse Analytics
+- Securing a data warehouse in Azure Synapse Analytics
 - Working with Data Warehouses using Azure Synapse Analytics
 - Getting Xam to be neutered
 
