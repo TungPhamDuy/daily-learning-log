@@ -6,7 +6,7 @@
 - Planing hybrid transactional and analytical processing using Azure Synapse Analytics
 - Securing a data warehouse in Azure Synapse Analytics
 - Working with Data Warehouses using Azure Synapse Analytics
-- Getting Xam to be neutered
+- Getting Xam neutered
 
 #### 15/02/2024
 - Doing stuff
