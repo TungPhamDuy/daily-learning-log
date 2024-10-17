@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 17/10/2024
+- Meeting MVP Phrase 1B UPH
+
 #### 16/02/2024
 - Implementing Azure Synapse Link for SQL
 - Implementing Azure Synapse Link with Azure Cosmos DB
