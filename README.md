@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 17/10/2024
+- Using Apache Spark in Azure Databricks
 - Performing data analysis with Azure Databricks
 - Exploring Azure Databricks
 - Visualizing real-time data with Azure Stream Analytics and Power BI
