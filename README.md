@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 17/10/2024
+- Exploring Azure Databricks
 - Visualizing real-time data with Azure Stream Analytics and Power BI
 - Ingesting streaming data using Azure Stream Analytics and Azure Synapse Analytics
 - Meeting MVP Phrase 1B UPH
