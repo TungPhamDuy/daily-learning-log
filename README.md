@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 17/10/2024
+- Managing data with Delta Lake
 - Using Apache Spark in Azure Databricks
 - Performing data analysis with Azure Databricks
 - Exploring Azure Databricks
