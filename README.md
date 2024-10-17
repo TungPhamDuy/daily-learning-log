@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 17/10/2024
+- Ingesting streaming data using Azure Stream Analytics and Azure Synapse Analytics
 - Meeting MVP Phrase 1B UPH
 
 #### 16/02/2024
