@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 18/10/2024
+- Checking connection to UPH 1.4 pbix
 - Interviewing with team onsite Tagetik
 
 #### 17/10/2024
