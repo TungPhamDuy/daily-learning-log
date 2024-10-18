@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 18/10/2024
+- Deploying workloads with Azure Databricks Workflows
 - Building data pipelines with Delta Live Tables
 - Checking connection to UPH 1.4 pbix
 - Interviewing with team onsite Tagetik
