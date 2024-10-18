@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 18/10/2024
+- Interviewing with team onsite Tagetik
+
 #### 17/10/2024
 - Managing data with Delta Lake
 - Using Apache Spark in Azure Databricks
