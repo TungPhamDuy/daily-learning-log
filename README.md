@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 19/10/2024
+- Governing data across an enterprise
 - Integrating Microsoft Purview and Azure Synapse Analytics
 - Managing Power BI assets by using Microsoft Purview
 - Cataloging data artifacts by using Microsoft Purview
