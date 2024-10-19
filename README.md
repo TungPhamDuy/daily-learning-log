@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 19/10/2024
+- Managing Power BI assets by using Microsoft Purview
 - Cataloging data artifacts by using Microsoft Purview
 - Discovering trusted data using Microsoft Purview
 - Introducing to Microsoft Purview
