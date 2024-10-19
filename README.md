@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 19/10/2024
+- Introducing to Microsoft Purview
 - Relaxing cause it Saturday
 
 #### 18/10/2024
