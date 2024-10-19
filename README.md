@@ -2,6 +2,7 @@
 
 #### 19/10/2024
 - Introducing to Microsoft Purview
+- Revising the recommendation letter of Mr.Liem
 - Relaxing cause it Saturday
 
 #### 18/10/2024
