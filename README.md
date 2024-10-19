@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 19/10/2024
+- Relaxing cause it Saturday
+
 #### 18/10/2024
 - Implementing a data lakehouse analytics solution with Azure Databricks
 - Deploying workloads with Azure Databricks Workflows
