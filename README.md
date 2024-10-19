@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 20/10/2024
+- Getting raw dog by dp203 practice exam
+
 #### 19/10/2024
 - Governing data across an enterprise
 - Integrating Microsoft Purview and Azure Synapse Analytics
