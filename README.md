@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 19/10/2024
+- Discovering trusted data using Microsoft Purview
 - Introducing to Microsoft Purview
 - Revising the recommendation letter of Mr.Liem
 - Relaxing cause it Saturday
