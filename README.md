@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 20/10/2024
+- Raw dogging by practice test part 2
 - Getting raw dog by dp203 practice exam
 
 #### 19/10/2024
