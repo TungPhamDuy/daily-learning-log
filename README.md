@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 21/10/2024
+- Discussing with boss about on board new project
 - Notarizing bachelor degree, household verify, english certificate
 - Going to hospital to have health checkup paper
 - Fucking around with AutoML
