@@ -1,8 +1,8 @@
 # daily-learning-log
 
 #### 21/10/2024
+- Going to hospital to have health checkup paper
 - Fucking around with AutoML
-- 
 
 #### 20/10/2024
 - Fucking around with azure ml lab in udacity account
