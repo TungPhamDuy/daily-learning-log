@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 22/10/2024
+- Making some finance decisions
 - Submitting application for MSc program
 - Navigating to udacity cause cannot continuing with dp203
 
