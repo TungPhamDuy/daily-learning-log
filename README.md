@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 22/10/2024
+- Navigating to udacity cause cannot continuing with dp203
+
 #### 21/10/2024
 - Discussing with boss about on board new project
 - Notarizing bachelor degree, household verify, english certificate
