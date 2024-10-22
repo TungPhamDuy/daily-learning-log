@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 22/10/2024
+- Submitting application for MSc program
 - Navigating to udacity cause cannot continuing with dp203
 
 #### 21/10/2024
