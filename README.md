@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 23/10/2024
+- Starting Tagetik
+
 #### 22/10/2024
 - Making some finance decisions
 - Submitting application for MSc program
