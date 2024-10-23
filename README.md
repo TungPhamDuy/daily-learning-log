@@ -3,6 +3,7 @@
 #### 23/10/2024
 - Getting transfer task for DE of UPH
 - Getting training on Tagetik workflow for fix mismatch number
+- Going to company is a task i guess
 - Starting Tagetik
 - Reviewing documents for Tagetik
 
