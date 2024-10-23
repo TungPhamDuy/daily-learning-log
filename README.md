@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 23/10/2024
+- Getting training on Tagetik workflow for fix mismatch number
 - Starting Tagetik
 - Reviewing documents for Tagetik
 
