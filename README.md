@@ -2,6 +2,7 @@
 
 #### 23/10/2024
 - Starting Tagetik
+- Reviewing documents for Tagetik
 
 #### 22/10/2024
 - Making some finance decisions
