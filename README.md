@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 24/10/2024
+- Busying day, lots of meeting lots of tasks
+
 #### 23/10/2024
 - Getting transfer task for DE of UPH
 - Getting training on Tagetik workflow for fix mismatch number
