@@ -4,6 +4,7 @@
 - Busying day, lots of meeting lots of tasks
 - Meeting with Mr.Duy to guide on Tagetik E-support
 - Meeting with Olan from UPH to fix cluster problem
+- Meeting with Jake on MVP phrase 1 dicussion
 
 #### 23/10/2024
 - Getting transfer task for DE of UPH
