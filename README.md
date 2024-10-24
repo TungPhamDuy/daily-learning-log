@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 25/10/2024
+- Completing project 1 AzureML
+
 #### 24/10/2024
 - Busying day, lots of meeting lots of tasks
 - Meeting with Mr.Duy to guide on Tagetik E-support
