@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 25/10/2024
+- Passing project 1 AzureML
 - Completing project 1 AzureML
 
 #### 24/10/2024
