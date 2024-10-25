@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 25/10/2024
+- Investigating pbix and writing a sample notebook
 - Submitting ticket to install OpenVPN
 - Passing project 1 AzureML
 - Completing project 1 AzureML
