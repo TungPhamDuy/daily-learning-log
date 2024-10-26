@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 26/10/2024
+- Starting on deloy a model
+
 #### 25/10/2024
 - Completing introduction to azureml
 - Starting course 2 of AzureML
