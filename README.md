@@ -1,6 +1,10 @@
 # daily-learning-log
 
+
+
 #### 26/10/2024
+- Creating summary file for finance videos
+- Allocating budget
 - Starting on deloy a model
 
 #### 25/10/2024
