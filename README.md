@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 27/10/2024
+- Completing deloy a model
 - Continuing to complete the summary file for finance videos
 
 #### 26/10/2024
