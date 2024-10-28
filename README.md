@@ -2,7 +2,7 @@
 
 #### 28/10/2024
 - Checking files to identify columns for pbix table UPH
-- 
+- Communicating with Tagetik team
 
 #### 27/10/2024
 - Completing deloy a model
