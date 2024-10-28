@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 28/10/2024
+- Checking files to identify columns for pbix table UPH
+- 
+
 #### 27/10/2024
 - Completing deloy a model
 - Continuing to complete the summary file for finance videos
