@@ -1,5 +1,11 @@
 # daily-learning-log
 
+#### 30/10/2024
+- Demoing query data on PROD in Tagetik
+
+#### 29/10/2024
+- Working all day so forgot to log in
+
 #### 28/10/2024
 - Checking files to identify columns for pbix table UPH
 - Communicating with Tagetik team
