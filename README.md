@@ -2,6 +2,7 @@
 
 #### 30/10/2024
 - Demoing query data on PROD in Tagetik
+- Checking out the change jobrank form
 
 #### 29/10/2024
 - Working all day so forgot to log in
