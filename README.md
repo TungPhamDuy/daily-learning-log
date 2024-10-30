@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 30/10/2024
+- Completing consume endpoint azureml
 - Meeting with TrangLT110 for brief QA
 - Demoing query data on PROD in Tagetik
 - Checking out the change jobrank form
