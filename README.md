@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 31/10/2024
+- Doing tagetik all day
+
 #### 30/10/2024
 - Completing consume endpoint azureml
 - Meeting with TrangLT110 for brief QA
