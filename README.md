@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 02/11/2024
+- Chilling cause it Saturday babe!!!
+
 #### 01/11/2024
 - Doing tagetik all day
 
