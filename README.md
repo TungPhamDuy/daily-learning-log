@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 03/11/2024
+- Continuing azureml project 2
+
 #### 02/11/2024
 - Chilling cause it Saturday babe!!!
 
