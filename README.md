@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 04/11/2024
+- Doing some investigate tagetik task
+
+
 #### 03/11/2024
 - Continuing azureml project 2
 
