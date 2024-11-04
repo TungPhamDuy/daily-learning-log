@@ -2,7 +2,7 @@
 
 #### 04/11/2024
 - Doing some investigate tagetik task
-
+- Continuing project 2 azureml 
 
 #### 03/11/2024
 - Continuing azureml project 2
