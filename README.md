@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 07/11/2024
+- Off day
+
 #### 04/11/2024
 - Doing some investigate tagetik task
 - Continuing project 2 azureml 
