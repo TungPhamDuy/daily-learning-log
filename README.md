@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 08/11/2024
+- Doing tagetik tasks
+
 #### 07/11/2024
 - Off day
 
