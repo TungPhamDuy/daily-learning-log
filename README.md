@@ -1,6 +1,9 @@
 # daily-learning-log
 
 #### 11/11/2024
+- Doing tagetik task
+
+#### 10/11/2024
 - Sunday is funday
 
 #### 08/11/2024
