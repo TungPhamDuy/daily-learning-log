@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 12/11/2024
+- Doing tagetik task
+
 #### 11/11/2024
 - Doing tagetik task
 
