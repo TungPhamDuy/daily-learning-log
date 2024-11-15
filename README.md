@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 15/11/2024
+- Weekend babe
 - Doing tagetik tasks
 
 #### 13/11/2024
