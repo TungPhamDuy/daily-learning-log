@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 16/11/2024
+- Today is Saturday bro
+
 #### 15/11/2024
 - Weekend babe
 - Doing tagetik tasks
