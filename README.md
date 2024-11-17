@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 17/11/2024
+- What day is after Sat? Yes! It Sunday
+
 #### 16/11/2024
 - Today is Saturday bro
 
