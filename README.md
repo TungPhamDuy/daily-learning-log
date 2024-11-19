@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 18/11/2024
+- Doing tagetik tasks
+
 #### 17/11/2024
 - What day is after Sat? Yes! It Sunday
 
