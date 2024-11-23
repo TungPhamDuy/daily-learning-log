@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 23/11/2024
+- Its Saturday babyyy!
+
 #### 21/11/2024
 - Doing tagetik tasks
 
