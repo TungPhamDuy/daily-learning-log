@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 24/11/2024
+- Sunday chilling!
+
 #### 23/11/2024
 - Its Saturday babyyy!
 
