@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 25/11/2024
+- Doing tagetik tasks
+
 #### 24/11/2024
 - Sunday chilling!
 
