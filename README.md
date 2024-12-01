@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 01/12/2024
+- Sunday babe!!!
+
 #### 30/11/2024
 - It saturday babyyy!
 
