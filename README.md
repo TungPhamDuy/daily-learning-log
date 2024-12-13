@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 13/12/2024
+- Taking a leave day, Friday babyyy!
+
 #### 12/12/2024
 - Doing tagetik tasks
 
