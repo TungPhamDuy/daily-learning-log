@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 14/12/2024
+- It still Saturday!!
+
 #### 13/12/2024
 - Taking a leave day, Friday babyyy!
 
