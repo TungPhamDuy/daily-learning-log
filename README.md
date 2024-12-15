@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 15/12/2024
+- Chilling and shit
 - Doing cables management
 - It Sundayyy bebyyyy!!!
 
