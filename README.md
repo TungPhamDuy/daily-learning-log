@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 15/12/2024
+- Doing cables management
 - It Sundayyy bebyyyy!!!
 
 #### 14/12/2024
