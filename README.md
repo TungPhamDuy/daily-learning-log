@@ -2,6 +2,7 @@
 
 #### 16/12/2024
 - Doing tagetik tasks
+- Checking for a Udemy course completion for OKR4/2024
 
 #### 15/12/2024
 - Chilling and shit
