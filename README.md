@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 16/12/2024
+- Doing tagetik tasks
+
 #### 15/12/2024
 - Chilling and shit
 - Doing cables management
