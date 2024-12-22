@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 22/12/2024
+- Its Sunday bebyyyy!!!!!
+
 #### 21/12/2024
 - Its Saturday bebyyyy!!!
 
