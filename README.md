@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 23/12/2024
+- Doing tagetik tasks
+
 #### 22/12/2024
 - Its Sunday bebyyyy!!!!!
 
