@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 25/12/2024
+- Christmas holiday off
+
 #### 24/12/2024
 - Christmas holiday off
 
