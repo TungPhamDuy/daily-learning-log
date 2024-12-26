@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 26/12/2024
+- Doing tagetik tasks
+
 #### 25/12/2024
 - Christmas holiday off
 
