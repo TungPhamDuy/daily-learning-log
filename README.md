@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 29/12/2024
+- It Sundayyyyyy!!!
+
 #### 28/12/2024
 - It Saturday babyyyy!!!
 
