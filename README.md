@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 31/12/2024
+- Annual leave day!!!
+
 #### 30/12/2024
 - Doing tagetik tasks
 
