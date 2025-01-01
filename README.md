@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 02/01/2025
+- Manifest not doing tagetik tasks
+- I mean still work, but dont have tasks
+
 #### 01/01/2025
 - Annual leave day!!! Happy New Year you!
 
