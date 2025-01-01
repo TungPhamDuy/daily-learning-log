@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 01/01/2025
+- Annual leave day!!! Happy New Year you!
+
 #### 31/12/2024
 - Annual leave day!!!
 
