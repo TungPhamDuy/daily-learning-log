@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 03/01/2025
+- Manifest not doing work today also
+- But dont get ask when report to onsite nextweek
+
 #### 02/01/2025
 - Manifest not doing tagetik tasks
 - I mean still work, but dont have tasks
