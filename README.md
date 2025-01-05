@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 05/01/2025
+- Sunday moving home!!!
+
 #### 03/01/2025
 - Manifest not doing work today also
 - But dont get ask when report to onsite nextweek
