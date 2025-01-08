@@ -2,6 +2,7 @@
 
 #### 08/01/2025
 - Doing tagetik tasks
+- Developing financial management sheet
 
 #### 07/01/2025
 - Doing tagetik tasks
