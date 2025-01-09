@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 09/01/2025
+- Doing tagetik tasks
+
 #### 08/01/2025
 - Doing tagetik tasks
 - Developing financial management sheet
