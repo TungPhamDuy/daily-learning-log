@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 11/01/2025
+- Doing tagetik tasks on Saturdday because I was lazy yesterday
+
 #### 10/01/2025
 - Doing tagetik tasks
 - Developing financial management sheet
