@@ -2,6 +2,7 @@
 
 #### 11/01/2025
 - Doing tagetik tasks on Saturdday because I was lazy yesterday
+- Developing financial management sheet
 
 #### 10/01/2025
 - Doing tagetik tasks
