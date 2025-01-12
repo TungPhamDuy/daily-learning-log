@@ -3,6 +3,7 @@
 #### 12/01/2025
 - Developing finanncial management sheet
 - Installing Photoshop
+- Installing Lightroom
 
 #### 11/01/2025
 - Doing tagetik tasks on Saturdday because I was lazy yesterday
