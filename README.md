@@ -1,9 +1,8 @@
 # daily-learning-log
 
 #### 12/01/2025
-- Developing fund_allocation sheet in financial workbook
 - Installing Photoshop
-
+- Developing fund_allocation sheet in financial workbook
 
 #### 11/01/2025
 - Doing tagetik tasks on Saturdday because I was lazy yesterday
