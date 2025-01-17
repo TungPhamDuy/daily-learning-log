@@ -3,6 +3,7 @@
 #### 17/01/2025
 - Taking a day off work to recharge energy
 - Checking up and thinking about stuff
+- Going to HCMUT and taking the first Master class
 
 #### 13/01/2025
 - Doing tagetik tasks
