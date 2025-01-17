@@ -2,6 +2,7 @@
 
 #### 17/01/2025
 - Taking a day off work to recharge energy
+- Checking up and thinking about stuff
 
 #### 13/01/2025
 - Doing tagetik tasks
