@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 17/01/2025
+- Taking a day off work to recharge energy
+
 #### 13/01/2025
 - Doing tagetik tasks
 
