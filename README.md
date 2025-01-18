@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 18/01/2025
+- It is Saturday babyyyy!!!
+
 #### 17/01/2025
 - Taking a day off work to recharge energy
 - Checking up and thinking about stuff
