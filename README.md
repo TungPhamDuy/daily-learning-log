@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 19/01/2025
+- It is Sunday bebeyyyyyyy heheheheh!!!
+
 #### 18/01/2025
 - It is Saturday babyyyy!!!
 
