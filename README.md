@@ -1,6 +1,7 @@
 # daily-learning-log
 
 #### 19/01/2025
+- Taking first Natural Language Processing class
 - It is Sunday bebeyyyyyyy heheheheh!!!
 
 #### 18/01/2025
