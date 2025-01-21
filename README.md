@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 20/01/2025
+- Doing tagetik tasks
+
 #### 19/01/2025
 - Taking first Natural Language Processing class
 - It is Sunday bebeyyyyyyy heheheheh!!!
