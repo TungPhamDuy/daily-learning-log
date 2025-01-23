@@ -1,7 +1,11 @@
 # daily-learning-log
 
+#### 21/01/2025
+- Doing tagetik tasks
+
 #### 20/01/2025
 - Doing tagetik tasks
+- Partying at HCDG
 
 #### 19/01/2025
 - Taking first Natural Language Processing class
