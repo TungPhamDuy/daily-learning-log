@@ -2,6 +2,7 @@
 
 #### 24/01/2025
 - Doing tagetik tasks
+- Doing tagetik tasks (but at home!?)
 
 #### 23/01/2025
 - Doing tagetik tasks
