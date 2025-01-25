@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 25/01/2025
+- Tet holiday
+
 #### 24/01/2025
 - Doing tagetik tasks
 - Doing tagetik tasks (but at home!?)
