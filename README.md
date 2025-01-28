@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 28/01/2025
+- Tet holiday
+
 #### 26/01/2025
 - Tet holiday
 
