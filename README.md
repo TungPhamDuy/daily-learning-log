@@ -1,6 +1,9 @@
 # daily-learning-log
 
 #### 02/02/2025
+- New year same tagetik tasks
+
+#### 02/02/2025
 - Tet holiday
 
 #### 31/01/2025
