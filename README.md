@@ -4,6 +4,7 @@
 - It is Sunday!
 - Starting the project, làm gì thì note lại, không để tâm hồn bay tứ tung nữa, kể cả learning, working hay entertaining
 - Watching new video of HDD, Vì sao người nghèo hay gặp xui
+- Creating a management file for master class tasks
 
 #### 08/02/2025
 - It is Saturday!
