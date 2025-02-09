@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 09/02/2025
+- It is Sunday!
+
 #### 08/02/2025
 - It is Saturday!
 - Studying at afternoon
