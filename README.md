@@ -2,6 +2,7 @@
 
 #### 10/02/2025
 - Doing tagetik tasks
+- Self-studying
 
 #### 09/02/2025
 - It is Sunday!
