@@ -4,6 +4,7 @@
 - Doing tagetik tasks
 - Change logic in sheet ref!BS2 CF100
 - Check job error beside 15' job and recovery
+- Doing assignment 1 of Mr.Khuong
 
 #### 10/02/2025
 - Doing tagetik tasks
