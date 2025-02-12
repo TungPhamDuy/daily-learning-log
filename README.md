@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 12/02/2025
+- Doing tagetik tasks
+- Studying at night
+
 #### 11/02/2025
 - Doing tagetik tasks
 - Change logic in sheet ref!BS2 CF100
