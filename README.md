@@ -2,6 +2,7 @@
 
 #### 14/02/2025
 - Doing tagetik tasks but on Valentine day
+- Studying at night
 
 #### 13/02/2025
 - Doing tagetik tasks
