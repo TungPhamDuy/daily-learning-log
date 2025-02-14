@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 14/02/2025
+- Doing tagetik tasks but on Valentine day
+
 #### 13/02/2025
 - Doing tagetik tasks
 
