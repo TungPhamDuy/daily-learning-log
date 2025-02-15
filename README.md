@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 15/02/2025
+- It Saturday babe!
+
 #### 14/02/2025
 - Doing tagetik tasks but on Valentine day
 - Studying at night
