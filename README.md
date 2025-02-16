@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 16/02/2025
+- It Sunday babe!
+
 #### 15/02/2025
 - It Saturday babe!
 
