@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 17/02/2025
+- My meo's birthday!
+- Doing tagetik tasks
+
 #### 16/02/2025
 - It Sunday babe!
 
