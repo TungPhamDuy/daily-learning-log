@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 18/02/2025
+- Doing tagetik tasks
+- Studying at night
+
 #### 17/02/2025
 - My meo's birthday!
 - Doing tagetik tasks
