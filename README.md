@@ -1,6 +1,10 @@
 # daily-learning-log
 
 #### 21/02/2025
+- It is Saturday!
+- Studying in afternoon
+
+#### 21/02/2025
 - Doing tagetik tasks
 - Studying at night
 
