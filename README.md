@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 26/02/2025
+- Doing tagetik tasks
+- Studying at night
+
 #### 25/02/2025
 - Doing tagetik tasks
 - Studying at night
