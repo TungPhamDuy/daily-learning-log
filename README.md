@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 03/03/2025
+- Doing tagetik tasks
+- Studying
+
 #### 02/03/2025
 - It is Sunday
 - Studying
