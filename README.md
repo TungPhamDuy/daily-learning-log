@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 16/03/2025
+- It Sunday
+- Studying
+
 #### 15/03/2025
 - It Saturday
 - Studying
