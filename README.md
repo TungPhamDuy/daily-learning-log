@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 07/04/2025
+- It is Holiday
+- Studying
+
 #### 06/04/2025
 - It is Sunday
 - Studying
