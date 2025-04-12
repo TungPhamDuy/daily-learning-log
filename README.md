@@ -1,6 +1,9 @@
 # daily-learning-log
 
 #### 11/04/2025
+- It is saturday
+
+#### 11/04/2025
 - Doing tagetik tasks
 - Studying
 
