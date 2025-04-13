@@ -1,5 +1,8 @@
 # daily-learning-log
 
+#### 13/04/2025
+- its sunday
+
 #### 11/04/2025
 - It is saturday
 
