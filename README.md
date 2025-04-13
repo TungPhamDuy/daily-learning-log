@@ -1,7 +1,8 @@
 # daily-learning-log
 
 #### 13/04/2025
-- its sunday
+- Its sunday
+- Hehehe just bought rainy75, so beautiful, gorgeous
 
 #### 11/04/2025
 - It is saturday
