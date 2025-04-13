@@ -3,6 +3,29 @@
 #### 13/04/2025
 - Its sunday
 - Hehehe just bought rainy75, so beautiful, gorgeous
+- ghi chú thông tin địa điểm du lịch nha trang:
+- ngày 1:
+	+ buổi sáng:
+		. tháp bà ponagar
+		. chùa long sơn
+	+ buổi chiều:
+		. nhà thờ đá nha trang
+		. viện hải dương học (quan trọng, đi vào trời còn sáng)
+	+ buổi tối:
+		. ăn hải sản tại chợ đêm
+		. đi dạo phố
+- ngày 2:
+	+ buổi sáng:
+		. tour tham quan đảo: hòn mun, hòn tằm, bãi tranh
+		. đảo khỉ nha trang
+	+ buổi chiều:
+		. bãi dài nha trang
+		. vịnh ninh vân
+	+ buổi tối:
+		. bãi dài nha trang
+		. ăn hải sản 
+		. đi mua đồ
+- ngày 3: đi trọn một ngày tại vinwonder nha trang.
 
 #### 11/04/2025
 - It is saturday
