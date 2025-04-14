@@ -1,5 +1,9 @@
 # daily-learning-log
 
+#### 14/04/2025
+- Doing tagetik tasks
+- Studying at night
+
 #### 13/04/2025
 - Its sunday
 - Hehehe just bought rainy75, so beautiful, gorgeous
